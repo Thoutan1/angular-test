@@ -1,5 +1,19 @@
-app-projects {
-  animation: fade_up 2s;
+.footer-text {
+  text-align: center;
+  color: #868e96;
+  position: relative;
+  cursor: pointer;
+}
+.Clock-text {
+  text-align: right;
+  color: #868e96;
+}
+.Clock-div {
+  //top: 30px;
+  margin-top: 5rem;
+}
+.footer-div {
+  margin-top: 2rem;
 }
 
 /* Animations */
