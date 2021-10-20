@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { ContactComponent } from './contact/contact.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
+import { HomeComponent } from './home/home.component';
 import { SkillsComponent } from './skills/skills.component';
 import { SocialMediaComponent } from './social-media/social-media.component';
 
@@ -13,6 +14,7 @@ import { SocialMediaComponent } from './social-media/social-media.component';
   declarations: [
     AppComponent,
     HeaderComponent,
+    HomeComponent,
     FooterComponent,
     SkillsComponent,
     ContactComponent,

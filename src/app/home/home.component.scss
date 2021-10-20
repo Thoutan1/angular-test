@@ -1,0 +1,10 @@
+.home-page-div {
+  display: flex;
+  background-color: #fff;
+}
+.home-page-text {
+  text-align: center;
+}
+.home-page-div > * {
+  flex: 1;
+}
